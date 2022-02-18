@@ -1,0 +1,38 @@
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    text-align: center;
+}
+h1 {
+    size: 50px;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+};
+a {
+   color: aquamarine;
+   font-size: 16px; 
+   text-align: center;
+}
+h2 {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
+img{
+    : center;
+}
+a{
+    align-items: center;
+}
+footer{
+    text-align: right !important;
+    color: gray;
+}
